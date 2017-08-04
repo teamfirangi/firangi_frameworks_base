@@ -4316,7 +4316,12 @@ public final class Settings {
          * @hide
          */
         public static final String POWERMENU_SCREENSHOT = "powermenu_screenshot";
-
+        /**
+         * Sensor block per-package
+         *
+         * @hide
+         */
+        public static final String SENSOR_BLOCK = "sensor_block";
         /**
          * Whether to display settings in the power menu
          *
